@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey! I'm an incoming freshman at Caltech and current SWE intern at Red Hat :)
+### gabriellechang.me
 
 <!--
 **gabbiechang/gabbiechang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
