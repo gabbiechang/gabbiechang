@@ -1,5 +1,4 @@
-### Hey! I'm an incoming freshman at Caltech and current SWE intern at Red Hat :)
-### gabriellechang.me
+### Incoming freshman at Caltech. Current SWE intern at Red Hat. Lilac enthusiast. 
 
 <!--
 **gabbiechang/gabbiechang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
