@@ -1,4 +1,4 @@
-### Current SWE intern at Red Hat. On a gap year. Hackathon enthusiast. 
+### caltech cs undergrad -> reach me at gabbie (at) caltech (dot) edu 
 
 <!--
 **gabbiechang/gabbiechang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
